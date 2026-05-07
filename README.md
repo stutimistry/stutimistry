@@ -47,18 +47,12 @@ Task management application using Redux Toolkit.
 
 ## 📫 Connect With Me
 
-* 📧 Email: **[stuyimistry62765@gmail.com](mailto:stuyimistry62765@gmail.com)**
-* 💼 LinkedIn: https://linkedin.com/in/stuti-mistry
+* 📧 Email: **[stuyimistry62765@gmail.com](stuyimistry62765@gmail.com)**
+* 💼 LinkedIn:https://www.linkedin.com/in/stuti-mistry-95aa04259/
 * 🌐 GitHub: https://github.com/stutimistry
 
 ---
 
-## 📊 GitHub Stats
 
-![Stuti's GitHub stats](https://github-readme-stats.vercel.app/api?username=stutimistry\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stutimistry\&layout=compact)
-
----
 
 ⭐ Thanks for visiting my profile!
